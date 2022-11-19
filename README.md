@@ -2,7 +2,7 @@
 #### It uses the next technologies
 
 ![This is an image](./public/vite.svg)
-:rocket:
+:heavy_plus_sign:
 ![This is an image](./src/assets/react.svg)
 
 ```
